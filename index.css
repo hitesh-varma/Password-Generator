@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    font-family: 'Karla', sans-serif;
+    box-sizing: border-box;
+}
+.container {
+    box-sizing: border-box;
+    height: 600px;
+    width: 600px;
+    margin-top: 70px;
+    margin-left: 100px;
+    padding: 40px;
+}
+h1 {
+    font-size: 40px;
+    color: white;
+}
+span {
+    color: #4ADF86;
+    display: block;
+}
+.app-brief{
+    font-size: 20px;
+    color: #D5D4D8;
+}
+.btn {
+    background-color: #4ADF86;
+    font-family: 'Karla',sans-serif;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 60px;
+}
+.app-line{
+    height: 0px;
+    width: 500px;
+    margin-top: 35px;
+    border: 1px solid #2F3E53;
+}
+.password-container{
+    display: flex;
+    justify-content: space-between;
+}
+.password-box {
+    height: 40px;
+    width: 220px;
+    margin-top: 40px;
+    background: #273549;
+    border-radius: 6px;
+}
