@@ -5,7 +5,7 @@ body {
     box-sizing: border-box;
 }
 .container {
-    box-sizing: border-box;
+    box-sizing: border-box;  
     height: 600px;
     width: 600px;
     margin-top: 70px;
@@ -50,5 +50,12 @@ span {
     width: 220px;
     margin-top: 40px;
     background: #273549;
+    color: #4ADF86;
     border-radius: 6px;
+    border: none;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
 }
